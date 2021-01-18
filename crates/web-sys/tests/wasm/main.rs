@@ -28,6 +28,7 @@ pub mod input_element;
 pub mod dom_point;
 pub mod indexeddb;
 pub mod location;
+pub mod media_devices;
 pub mod meta_element;
 pub mod meter_element;
 pub mod mod_elements;
